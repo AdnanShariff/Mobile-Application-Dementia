@@ -1,4 +1,4 @@
-# Dementia
+# MindFit - Empowering Dementia Patients Through Physical Activity
 
 
 Problem        
